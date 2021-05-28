@@ -1,4 +1,4 @@
-baseURL = "https://news.zer0xeon.xyz/"
+baseURL = "/"
 languageCode = "en-gb"
 title = "Project:Astra - News"
 theme = "terminal"
